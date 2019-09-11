@@ -8,6 +8,9 @@
     <!--    format code : ctrl + alt + l -->
 <!--    goi y code : ctrl + space-->
     <TextView
+        android:layout_marginLeft="10dp"
+        android:paddingLeft="100dp"
+        android:textSize="50sp"
         android:text="Hello word"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
